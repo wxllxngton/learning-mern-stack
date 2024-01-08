@@ -1,0 +1,37 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directory
+package-lock.json
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# WebStorm
+.idea/
+
+# Test coverage
+coverage/
+
+# Output of 'npm run build'
+build/
+
+# Yarn
+yarn-error.log
+yarn-debug.log
+
+# npm
+npm-debug.log
